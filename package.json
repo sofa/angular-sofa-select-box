@@ -1,6 +1,6 @@
 {
   "name": "angular-sofa-select-box",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sofa Web SDK Angular Selectbox component.",
   "main": "dist/sofaSelectBox.js",
   "homepage": "http://www.sofa.io",

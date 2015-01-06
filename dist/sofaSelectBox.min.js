@@ -1,5 +1,5 @@
 /**
- * angular-sofa-select-box - v0.1.0 - Tue Dec 23 2014 12:06:50 GMT+0100 (CET)
+ * angular-sofa-select-box - v0.1.0 - Tue Jan 06 2015 15:52:00 GMT+0100 (CET)
  * http://www.sofa.io
  *
  * Copyright (c) 2014 CouchCommerce GmbH (http://www.couchcommerce.com / http://www.sofa.io) and other contributors
